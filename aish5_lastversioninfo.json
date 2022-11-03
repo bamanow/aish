@@ -1,0 +1,30 @@
+{
+  "$dokuman_tipi": "info_auto_update",
+  "$dokuman_versiyonu": 1,
+  "_id": "_local/aish5versionnew",
+  "_rev": null,
+  "author": "Begench Amanov",
+  "lst_arbitraryPros": [],
+  "lst_belliks": [
+    "[Goşuldy] Indi faktura şablonynda (Excel) <#doglanGununizGutlyBolsun> ulanyp bolýar",
+    "[Goşuldy] F2 (müşderi gözlemek) -> [Aýratynlyklar] sütüni goşuldy",
+    "[Goşuldy] Kartoçka -> Müşderi/Işgär -> [Doglan güni] goşuldy",
+    "[Goşuldy] Sazlaýyşlar -> Umumy -> Çek sazlaýyşlary -> [Müşderiniň doglan güni bilen näçe gün öňünden gutlanylyp başlanylsyn?]",
+    "[Goşuldy] Import/Eksport -> Haryt/Müşderi -> [Islege görä aýratynlyklar] goşuldy",
+    "[Goşuldy] F4 (faktura gözlemek) -> [Ambar] sütüni goşuldy",
+    "[Goşuldy] F5 (kassa herekedini gözlemek) -> [Depder] sütüni goşuldy",
+    "[Üýtgedildi] Ýelmemek üçin bahalar (ösen) -> [Surata öwürip çap et] surata öwürmek logikasy azajyk üýtgedildi (dpi 300 edildi, öň 96-dy)",
+    "[Üýtgedildi] Hasabatlar -> Müşderi -> Birnäçe müşderileriň soňky ýagdaýlary -> [Ýagdaýy nämeden emele geldi] sütüniniň hasaplanyş logikasy düýpden üýtgedildi",
+    "[Düzedildi] Müşderi import/eksport edilende [Aýratynlyklar] sütüni dogry işlänokdy"
+  ],
+  "pathToZipFile": "http://iskomekci.com/upfiles/aish5_v155.zip",
+  "StatusIsAktif": 1,
+  "tarih": "2022-11-03T05:11:11",
+  "uytgeme_device": "",
+  "uytgeme_isci": "",
+  "uytgeme_tarih": "0001-01-01T00:00:00Z",
+  "uytgeme_tarih_yen": "0001-01-01T00:00:00+00:00",
+  "uytgeme_terminal": "",
+  "uytgetme_db_uniqueid": "",
+  "version_major": 155
+}
