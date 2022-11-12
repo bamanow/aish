@@ -6,17 +6,27 @@
   "author": "Begench Amanov",
   "lst_arbitraryPros": [],
   "lst_belliks": [
-    "[Düzedildi] Müşderiniň algy/bergisi jemlenende programma walýuta kurslaryny 1-e deň diýip hasaplaýardy"
+    "[Goşuldy] Kassa -> Adaty -> [Goş] knopkasy goşuldy we knopkalaryň bary çepden, ýokary tarapa geçirildi",
+    "[Goşuldy] Faktura -> Adaty -> [Jemi haryt sanyny hasapla] knopkasy -> [Ctrl] bilen basylsa esasy ölçege görä hasaplanýar",
+    "[Goşuldy] Faktura -> Adaty -> [Skidka] üssüne goýmak mümkinçiligi goşuldy",
+    "[Goşuldy] Kartoçka -> Ulanyjy -> Umumy rugsatlar -> Hasabatlar -> [Doglan günler]",
+    "[Goşuldy] Kartoçka -> Ulanyjylar -> Hyperlink -> [Harydyň minimum satyş bahasy] görünsin",
+    "[Goşuldy] Hasabatlar -> Müşderi -> [Doglan günler] diýen täze hasabat goşuldy",
+    "[Goşuldy] Hasabatlar -> Harytlaryň hereketleri -> [Şol wagtky minimum satyş baha] sütüni goşuldy",
+    "[Goşuldy] Hasabatlar -> Harytlaryň hereketleri -> [Arzan/Gymmat diýip reňklemek üçin haýsy baha ulanylsyn?] parametri goşuldy",
+    "[Düzedildi] Faktura -> Adaty -> Indi rugsat ýok bolsa [Esasy alyş baha öwür] we [Minimum satyş baha öwür] işlemeýär",
+    "[Düzedildi] Faktura -> Adaty -> Indi rugsat ýok bolsa, fakturanyň görnüşi üýtgetmek arkaly [Esasy alyş bahany] görüp bolmaýar",
+    "[Üns beriň!] Bu wersiýä özünden öňki wersiýalary ýapýar (Windows we Android ikisinde hem)"
   ],
-  "lstAlternativePathsToZipFile": ["https://disk.yandex.ru/d/5BwABzNeKq7hIw"],
-  "pathToZipFile": "https://github.com/bamanow/aish/releases/download/v156/aish5_v156.zip",
+  "lstAlternativePathsToZipFile": ["https://disk.yandex.ru/d/PNbj_QZGV0LIUA", "https://github.com/bamanow/aish/releases/download/v157/aish5_v157.zip"],
+  "pathToZipFile": "http://iskomekci.com/upfiles/aish5_v157.zip",
   "StatusIsAktif": 1,
-  "tarih": "2022-11-04T03:03:03",
+  "tarih": "2022-11-12T11:11:11",
   "uytgeme_device": "",
   "uytgeme_isci": "",
   "uytgeme_tarih": "0001-01-01T00:00:00Z",
   "uytgeme_tarih_yen": "0001-01-01T00:00:00+00:00",
   "uytgeme_terminal": "",
   "uytgetme_db_uniqueid": "",
-  "version_major": 156
+  "version_major": 157
 }
