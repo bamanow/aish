@@ -6,27 +6,20 @@
   "author": "Begench Amanov",
   "lst_arbitraryPros": [],
   "lst_belliks": [
-    "[Goşuldy] Kassa -> Adaty -> [Goş] knopkasy goşuldy we knopkalaryň bary çepden, ýokary tarapa geçirildi",
-    "[Goşuldy] Faktura -> Adaty -> [Jemi haryt sanyny hasapla] knopkasy -> [Ctrl] bilen basylsa esasy ölçege görä hasaplanýar",
-    "[Goşuldy] Faktura -> Adaty -> [Skidka] üssüne goýmak mümkinçiligi goşuldy",
-    "[Goşuldy] Kartoçka -> Ulanyjy -> Umumy rugsatlar -> Hasabatlar -> [Doglan günler]",
-    "[Goşuldy] Kartoçka -> Ulanyjylar -> Hyperlink -> [Harydyň minimum satyş bahasy] görünsin",
-    "[Goşuldy] Hasabatlar -> Müşderi -> [Doglan günler] diýen täze hasabat goşuldy",
-    "[Goşuldy] Hasabatlar -> Harytlaryň hereketleri -> [Şol wagtky minimum satyş baha] sütüni goşuldy",
-    "[Goşuldy] Hasabatlar -> Harytlaryň hereketleri -> [Arzan/Gymmat diýip reňklemek üçin haýsy baha ulanylsyn?] parametri goşuldy",
-    "[Düzedildi] Faktura -> Adaty -> Indi rugsat ýok bolsa [Esasy alyş baha öwür] we [Minimum satyş baha öwür] işlemeýär",
-    "[Düzedildi] Faktura -> Adaty -> Indi rugsat ýok bolsa, fakturanyň görnüşi üýtgetmek arkaly [Esasy alyş bahany] görüp bolmaýar",
-    "[Üns beriň!] Bu wersiýä özünden öňki wersiýalary ýapýar (Windows we Android ikisinde hem)"
+    "[Goşuldy] Faktura -> Adaty -> [Jemi haryt sanyny hasapla] knopkasy -> Harydyň [Esasy ölçegiň gramda agramy] görkezilen bolsa, agramlary hem hasaplap bolýar",
+    "[Goşuldy] Indi faktura şablonynda (Excel) <#jemiAgram> ulanyp bolýar",
+    "[Goşuldy] Indi faktura şablonynda (Excel) <#t.setirinAgramy> ulanyp bolýar",
+    "[Goşuldy] Sazlaýyşlar -> Umumy -> Çek sazlaýyşlary -> [Jemi agramy] görünin/görünmesin goşuldy"
   ],
-  "lstAlternativePathsToZipFile": ["https://disk.yandex.ru/d/PNbj_QZGV0LIUA", "https://github.com/bamanow/aish/releases/download/v157/aish5_v157.zip"],
-  "pathToZipFile": "http://iskomekci.com/upfiles/aish5_v157.zip",
+  "lstAlternativePathsToZipFile": ["https://disk.yandex.ru/d/p3m-5C9hFFluGQ" , "https://github.com/bamanow/aish/releases/download/v158/aish5_v158.zip"],
+  "pathToZipFile": "http://iskomekci.com/upfiles/aish5_v158.zip",
   "StatusIsAktif": 1,
-  "tarih": "2022-11-12T11:11:11",
+  "tarih": "2022-11-16T06:06:06",
   "uytgeme_device": "",
   "uytgeme_isci": "",
   "uytgeme_tarih": "0001-01-01T00:00:00Z",
   "uytgeme_tarih_yen": "0001-01-01T00:00:00+00:00",
   "uytgeme_terminal": "",
   "uytgetme_db_uniqueid": "",
-  "version_major": 157
+  "version_major": 158
 }
