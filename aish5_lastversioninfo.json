@@ -6,20 +6,25 @@
   "author": "Begench Amanov",
   "lst_arbitraryPros": [],
   "lst_belliks": [
-    "[Goşuldy] Faktura -> Adaty -> [Jemi haryt sanyny hasapla] knopkasy -> Harydyň [Esasy ölçegiň gramda agramy] görkezilen bolsa, agramlary hem hasaplap bolýar",
-    "[Goşuldy] Indi faktura şablonynda (Excel) <#jemiAgram> ulanyp bolýar",
-    "[Goşuldy] Indi faktura şablonynda (Excel) <#t.setirinAgramy> ulanyp bolýar",
-    "[Goşuldy] Sazlaýyşlar -> Umumy -> Çek sazlaýyşlary -> [Jemi agramy] görünin/görünmesin goşuldy"
+    "[Goşuldy] Kartoçka -> Ölçegler -> [Status] goşuldy (Ulanylýar, Wagtlaýynça görünmesiz, Ýalňyş ...)",
+    "[Goşuldy] Faktura -> Topar -> Çap etmek -> [Agramy] goşuldy",
+    "[Goşuldy] Hasabatlar -> Harytlaryň herekedi -> [Admin] bolup hasapladylsa, satyşlarda (netije setirinde) bahanyň üssüne goýlanyny ýa-da skidka berleni görünýär",
+    "[Goşuldy] Hasabatlar -> Harytlaryň herekedi -> Satyş hereketleri üçin [Tapawut] sütüni goşuldy",
+    "[Goşuldy] Hasabatlar -> Haryt -> Ostatok -> [Minimum satyş baha] sütüni goşuldy",
+    "[Goşuldy] Sazlaýyşlar -> Umumy -> Rugsatlar -> Fakturanyň [Ambarlaryň arasyndaky hereket] görnüşinde harytlaryň bahasy 0 däl-de [Esasy satyş bahasy] bolsun",
+    "[Düzedildi] Indi ulanyja rugsat ýok bolsa [Haryt Ostatok] we [Haryt Hereketleri] hasabatlarynda [Esasy alyş baha] we [Minimum satyş baha görünmeýär]",
+    "[Düzedildi] Kartoçka -> Ulanyjy -> Faktura -> [Gadagan däl-de duýduryş: Minusa gitjek harytlarda] işlemeýärdi",
+    "[Üýtgedildi] Ýokardaky (sagda) [Çap (nirä?)] knopkasy, aşak geçdi (printeriň suraty)"
   ],
-  "lstAlternativePathsToZipFile": ["https://disk.yandex.ru/d/p3m-5C9hFFluGQ" , "https://github.com/bamanow/aish/releases/download/v158/aish5_v158.zip"],
-  "pathToZipFile": "http://iskomekci.com/upfiles/aish5_v158.zip",
+  "lstAlternativePathsToZipFile": ["https://disk.yandex.ru/d/tYuKCyT4K0Rblw" , "https://github.com/bamanow/aish/releases/download/v159/aish5_v159.zip"],
+  "pathToZipFile": "http://iskomekci.com/upfiles/aish5_v159.zip",
   "StatusIsAktif": 1,
-  "tarih": "2022-11-16T06:06:06",
+  "tarih": "2022-11-18T22:13:13",
   "uytgeme_device": "",
   "uytgeme_isci": "",
   "uytgeme_tarih": "0001-01-01T00:00:00Z",
   "uytgeme_tarih_yen": "0001-01-01T00:00:00+00:00",
   "uytgeme_terminal": "",
   "uytgetme_db_uniqueid": "",
-  "version_major": 158
+  "version_major": 159
 }
